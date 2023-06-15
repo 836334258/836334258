@@ -1,7 +1,7 @@
 <h1 align="center">❤Hi 👋  I'm HaiTao!❤</h1>
 <br>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
   <h3 align="left"> ❤ About Me </h3>
