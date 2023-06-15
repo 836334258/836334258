@@ -1,7 +1,7 @@
 <h1 align="center">❤Hi 👋  I'm HaiTao!❤</h1>
 <br>
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
   <h3 align="left"> ❤ About Me </h3>
@@ -24,10 +24,7 @@
 </td>
 </tr>
 </table>
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=836334258&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=836334258&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=836334258)](https://github.com/anuraghazra/github-readme-stats)
+
