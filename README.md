@@ -7,7 +7,7 @@
   <h3 align="left"> ❤ About Me </h3>
 
 - 🌱 Keep Learning
-- 📫 Reach me: d836334258@qq.com
+- 📫 Reach me: 836334258@qq.com
 - 💬 Ask me about everything
 </td>
 <td width="50%" valign="top">
