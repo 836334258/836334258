@@ -15,10 +15,10 @@
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#13013](https://github.com/element-plus/element-plus/pull/13013) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-2. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/issues/13013) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-3. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/issues/13013) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-4. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/issues/13013) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-5. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/issues/13013) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+2. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/pull/13013#issuecomment-1575315913) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+3. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/pull/13013#issuecomment-1574602404) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+4. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/pull/13013#issuecomment-1574592892) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
+5. 🗣 Commented on [#13013](https://github.com/element-plus/element-plus/pull/13013#issuecomment-1574534916) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
 <!--END_SECTION:activity-->
       
 </td>
